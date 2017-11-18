@@ -1,7 +1,6 @@
-
 ### Blog post submission repository
 
-This is the submission repository for the [Machine Learning For Mexico Blog(https://github.com/ML4MX).
+This is the submission repository for the [Machine Learning For Mexico Blog](https://github.com/ML4MX).
 
 ### How to submit a blog post?
 
@@ -21,13 +20,11 @@ This is the submission repository for the [Machine Learning For Mexico Blog(http
    $ git checkout -b AUTHOR1-AUTHOR2
    ```
 
-
 5. Add your code & article (see [author guidelines](https://rescience.github.io/write)) and commit your changes:
 
    ```
    $ git commit -a -m "Some comment"
    ```
-
 
 6. [Push](https://help.github.com/articles/pushing-to-a-remote/) to github
 
@@ -48,25 +45,8 @@ This is the submission repository for the [Machine Learning For Mexico Blog(http
 
   **Title:**  
   **Author(s):**  
-  **Journal (or Conference):**  
-  **Year:**  
-  **DOI:**  
-  **PDF:**   
-
-  ### Replication
-
-  **Author(s)**:   
-  **Repository**:  
-  **PDF**:  
   **Keywords**:  
-  **Language**:  
-  **Domain**:  
-
-  ### Results
-
-  * [ ] Article has been fully replicated
-  * [ ] Article has been partially replicated
-  * [ ] Article has not been replicated
+  **Repository**:  
 
   ### Potential reviewers
   <!-- If you know potential reviewers, you can tell us here -->
@@ -77,7 +57,7 @@ This is the submission repository for the [Machine Learning For Mexico Blog(http
 
   **EDITOR**
 
-  * [ ] Editor acknowledgment
+  * [ ] Editor acknowledgement
   * [ ] Reviewer 1
   * [ ] Reviewer 2
   * [ ] Review 1 decision [accept/reject]
