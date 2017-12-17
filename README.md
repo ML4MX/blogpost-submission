@@ -1,4 +1,4 @@
-### blog posts submission repository
+### blogposts submission repository
 
 This is the submission repository for the [Machine Learning For Mexico Blog](https://ml4mx.github.io/website/blog/).
 
