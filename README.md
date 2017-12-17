@@ -1,17 +1,18 @@
-### Blog post submission repository
+### blog posts submission repository
 
-This is the submission repository for the [Machine Learning For Mexico Blog](https://github.com/ML4MX).
+This is the submission repository for the [Machine Learning For Mexico Blog](https://ml4mx.github.io/website/blog/).
+
 
 ### How to submit a blog post?
 
 1. Create a [github](https://github.com) account
 
-2. [Fork](https://help.github.com/articles/fork-a-repo/) the [BlogPost submission](https://github.com/ML4MX/BlogPost-submission) repository
+2. [Fork](https://help.github.com/articles/fork-a-repo/) the [blogpost submission](https://github.com/ML4MX/BlogPost-submission) repository
 
 3. Clone this new repository into your desktop environment
 
    ```
-   $ git clone https://github.com/YOUR-USERNAME/BlogPost-submission
+   $ git clone https://github.com/YOUR-USERNAME/blogpost-submission
    ```
 
 4. Create a branch (the branch name should be author names separated with dashes)
@@ -32,7 +33,7 @@ This is the submission repository for the [Machine Learning For Mexico Blog](htt
    $ git push origin AUTHOR1-AUTHOR2
    ```
 
-7. Issue a [pull request](https://help.github.com/articles/using-pull-requests/) (PR) to https://github.com/ML4MX/BlogPost-submission/pulls with title containing author(s) name and follow the template that will appear once you opened the pull request:
+7. Issue a [pull request](https://help.github.com/articles/using-pull-requests/) (PR) to https://github.com/ML4MX/blogpost-submission/pulls with title containing author(s) name and follow the template that will appear once you opened the pull request:
 
   ```
   **AUTHOR**
@@ -65,6 +66,11 @@ This is the submission repository for the [Machine Learning For Mexico Blog](htt
   * [ ] Editor decision [accept/reject]
   ```
 
-8. You can suggest reviewers from [editorial board](https://rescience.github.io/board).
+8. You can suggest reviewers from [editorial board](https://ml4mx.github.io/website/members.html).
 
 9. Answer questions and requests made in the PR conversation page.
+
+
+### References
+
+This repository is inspired by [ReScience-submission](https://github.com/ReScience/ReScience-submission).
