@@ -34,7 +34,10 @@ This is the submission repository for the [Machine Learning For Mexico Blog](htt
    $ git push origin AUTHOR1-AUTHOR2-...-AUTHORN-YEAR
    ```
 
-7. Issue a [pull request](https://help.github.com/articles/using-pull-requests/) (PR) to https://github.com/ML4MX/blogpost-submission/pulls with title containing author(s) name and follow the template that will appear once you opened the pull request:
+7. Issue a [pull request](https://help.github.com/articles/using-pull-requests/) (PR) to 
+[blogpost-submission](https://github.com/ML4MX/blogpost-submission) (click on compare and pull request) and then
+add the title containing author(s) name and follow the template that will appear once you opened the pull request:
+
 
   ```
   **AUTHOR**
