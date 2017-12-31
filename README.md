@@ -7,12 +7,13 @@ This is the submission repository for the [Machine Learning For Mexico Blog](htt
 
 1. Create a [github](https://github.com) account
 
-2. [Fork](https://help.github.com/articles/fork-a-repo/) the [blogpost submission](https://github.com/ML4MX/BlogPost-submission) repository
+2. [Fork](https://help.github.com/articles/fork-a-repo/) the [blogpost submission](https://github.com/ML4MX/blogpost-submission) repository
+	* Rename the forked repository by adding an item and a title
 
 3. Clone this new repository into your desktop environment
 
    ```
-   $ git clone https://github.com/YOUR-USERNAME/blogpost-submission
+   $ git clone https://github.com/YOUR-USERNAME/blogpost-submission-title
    ```
 
 4. Create a branch (the branch name should be author names separated with dashes)
@@ -73,4 +74,4 @@ This is the submission repository for the [Machine Learning For Mexico Blog](htt
 
 ### References
 
-This repository is inspired by [ReScience-submission](https://github.com/ReScience/ReScience-submission).
+This repository is based on [ReScience-submission](https://github.com/ReScience/ReScience-submission).
