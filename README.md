@@ -19,7 +19,7 @@ This is the submission repository for the [Machine Learning For Mexico Blog](htt
 4. Create a branch (the branch name should be author names separated with dashes)
 
    ```
-   $ git checkout -b AUTHOR1-AUTHOR2
+   $ git checkout -b AUTHOR1-AUTHOR2-...-AUTHORN-YEAR
    ```
 
 5. Add your code & article (see [author guidelines](https://rescience.github.io/write)) and commit your changes:
@@ -31,7 +31,7 @@ This is the submission repository for the [Machine Learning For Mexico Blog](htt
 6. [Push](https://help.github.com/articles/pushing-to-a-remote/) to github
 
    ```
-   $ git push origin AUTHOR1-AUTHOR2
+   $ git push origin AUTHOR1-AUTHOR2-...-AUTHORN-YEAR
    ```
 
 7. Issue a [pull request](https://help.github.com/articles/using-pull-requests/) (PR) to https://github.com/ML4MX/blogpost-submission/pulls with title containing author(s) name and follow the template that will appear once you opened the pull request:
@@ -59,9 +59,9 @@ This is the submission repository for the [Machine Learning For Mexico Blog](htt
 
   **EDITOR**
 
-  * [ ] Editor acknowledgement
-  * [ ] Reviewer 1
-  * [ ] Reviewer 2
+  * [ ] Editor acknowledgement ( [@githubusername](https://github.com/username) )
+  * [ ] Reviewer 1 ([@githubusername](https://github.com/username) )
+  * [ ] Reviewer 2 ([@githubusername](https://github.com/username) )
   * [ ] Review 1 decision [accept/reject]
   * [ ] Review 2 decision [accept/reject]
   * [ ] Editor decision [accept/reject]
