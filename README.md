@@ -22,7 +22,7 @@ This is the submission repository for the [Machine Learning For Mexico Blog](htt
    $ git checkout -b AUTHOR1-AUTHOR2-...-AUTHORN-YEAR
    ```
 
-5. Add your code & article (see [author guidelines](https://rescience.github.io/write)) and commit your changes:
+5. Add your code & article (see [author guidelines](https://ml4mx.github.io/website/blog/2017/12/31/submission-process.html)) and commit your changes:
 
    ```
    $ git commit -a -m "Some comment"
