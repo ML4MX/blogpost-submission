@@ -36,7 +36,7 @@ This is the submission repository for the [Machine Learning For Mexico Blog](htt
 7. Issue a [pull request](https://help.github.com/articles/using-pull-requests/) (PR) to https://github.com/ML4MX/blogpost-submission/pulls with title containing author(s) name and follow the template that will appear once you opened the pull request:
 
   ```
-  **Miguel P Xochicale**
+  **AUTHOR**
 
   Dear Editors,
 
@@ -44,24 +44,23 @@ This is the submission repository for the [Machine Learning For Mexico Blog](htt
 
   ### Original article
 
-  **Title: Why GitHub and how to use it?**  
-  **Author(s): Miguel P Xochicale**  
-  **Keywords**: Github  
-  **Repository**:  https://github.com/mxochicale/blogpost-submission-whygithub/
-
+  **Title:**  
+  **Author(s):**  
+  **Keywords**:  
+  **Repository**:  
 
   ### Potential reviewers
-  <!-- If you know potential reviewers, you can tell us here --> 
-  <!-- You can look at http://rescience.github.io/board for the --> 
-  <!-- list of registered reviewers (but you can propose others) --> 
+  <!-- If you know potential reviewers, you can tell us here -->
+  <!-- You can look at http://rescience.github.io/board for the -->
+  <!-- list of registered reviewers (but you can propose others) -->
 
-  --- 
+  ---
 
   **EDITOR**
 
-  * [ ] Editor acknowledgement ( [@mxochicale](https://github.com/mxochicale) )
-  * [ ] Reviewer 1 ( [@omarcr](https://github.com/omarcr) [@ekhar666](https://github.com/ekhar666)  )
-  * [ ] Reviewer 2 (  [@danielggm](https://github.com/danielggm)   [@ortuno](https://github.com/ortuno) )
+  * [ ] Editor acknowledgement ( [@githubusername](https://github.com/username) )
+  * [ ] Reviewer 1 ([@githubusername](https://github.com/username) )
+  * [ ] Reviewer 2 ([@githubusername](https://github.com/username) )
   * [ ] Review 1 decision [accept/reject]
   * [ ] Review 2 decision [accept/reject]
   * [ ] Editor decision [accept/reject]
